@@ -2,8 +2,6 @@
 
 ## 网络拓扑
 
-![拓扑](./img/拓扑.png)
-
 
 - 攻击者：kali-attacker
 
